@@ -10,8 +10,8 @@ These shortcuts heavily use spotify and openAI developer credentials like client
 
 | Shortcut | Download link|
 | --- | --- |
-|![Spotify referesh token gen](/images/spotify-refresh-token-gen-shortcut.png) | [icloud link to download spotify refresh token gen shortcut](https://www.icloud.com/shortcuts/6a2deda4c7c04afaac2b3d43669aca2e)|
-|![Spotify playlist GPT](/images/spotify-playlist-gpt-shortcut.png)| [icloud link to download spotify playlist gpt shortcut](https://www.icloud.com/shortcuts/1b02c5d7c70e4177a0770d96f08b1009)|
+|![Spotify referesh token gen](/images/spotify-refresh-token-gen-shortcut.png) | [icloud link to download spotify refresh token gen shortcut](https://www.icloud.com/shortcuts/046c31fd370945ea961f243e9b2cf382)|
+|![Spotify playlist GPT](/images/spotify-playlist-gpt-shortcut.png)| [icloud link to download spotify playlist gpt shortcut](https://www.icloud.com/shortcuts/e5ba1ca663f844c28a34cc8b415d3f9a)|
 
 # Developer credentials needed
 
